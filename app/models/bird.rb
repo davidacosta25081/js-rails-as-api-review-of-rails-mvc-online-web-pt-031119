@@ -4,5 +4,4 @@ class BirdsController < ApplicationController
       render 'birds/index.html.erb'
     end
   end
-end 
-
+end
